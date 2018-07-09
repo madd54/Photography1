@@ -1,0 +1,30 @@
+
+h1{
+text-align: center;
+font-weight: bold;
+font-size: 80px;
+color: white;
+font-family: 'Wendy One', sans-serif;
+}
+ h2{
+ text-align: center;
+font-size: 22px;
+color: white;
+font-family: 'Wendy One' sans-serif;
+ }
+
+ h3{
+text-align: center;
+font-size: 23px;
+color: white;
+font-family: 'Wendy One', sans-serif;
+}
+
+div{ background-image:url("https://bit.ly/2KWVnGk");
+    padding: 200px;
+    background-size: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
